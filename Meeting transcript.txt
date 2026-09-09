@@ -1,0 +1,75 @@
+MEETING MINUTES – Weekly Team Sync
+Date: August 27, 2026 | Time: 10:00 AM – 11:15 AM
+Location: Conference Room B / Zoom
+Attendees: Jane Tan (Chair), Michael Lee, Sarah Wong, David Ong, Priya Kumar, Alex Chen
+Minutes Taken By: Sarah Wong
+
+Jane Tan: Morning, everyone. Let's get started — we've got a fuller agenda today so I want to keep us moving. First, approval of last week's minutes. Any objections or corrections?
+
+Michael Lee: None from me. I move to approve.
+
+Priya Kumar: Seconded.
+
+Jane Tan: Great, approved. Let's start with David — project status update.
+
+David Ong: Sure. Phase 2 rollout is at about 80% complete now. The core integration is done, we're just working through edge cases in testing. We're on track to wrap by September 3rd.
+
+Jane Tan: Any blockers I should know about?
+
+David Ong: One minor one — the API team flagged a delay on their end, maybe two or three days. Shouldn't affect our overall timeline, but wanted to flag it early.
+
+Alex Chen: Is that the same API dependency we talked about last month? The one with the rate-limiting issue?
+
+David Ong: Yes, same one. We've got a workaround in place, so it's more of a watch item than a real risk right now.
+
+Jane Tan: Okay, let's keep an eye on it. Sarah, can you loop in the API team lead just so we have visibility?
+
+Sarah Wong: Will do, I'll send that today.
+
+Jane Tan: Thanks. Moving on — budget review, Sarah?
+
+Sarah Wong: Sure. We're tracking about 5% under forecast for Q3. Most of the underspend is from the delayed contractor hire in July. My recommendation is we reallocate part of that toward additional QA resourcing, since David's team is ramping up testing.
+
+David Ong: That would genuinely help. We're stretched thin on QA right now, especially with the edge case testing.
+
+Michael Lee: How much are we talking, roughly?
+
+Sarah Wong: I'd estimate around $8,000 to $10,000 for a short-term contractor, maybe six to eight weeks.
+
+Jane Tan: That seems reasonable given the underspend. Let's approve that reallocation. Sarah, can you draft the proposal and send it to finance?
+
+Sarah Wong: Yes, I'll have that out by end of day tomorrow.
+
+Jane Tan: Great. Priya, let's hear about the marketing campaign.
+
+Priya Kumar: So I've got three creative directions drafted for the fall campaign. One leans more minimalist, one is bolder with brighter colors, and the third ties in with the product launch messaging directly. I'll share the deck after this call.
+
+Michael Lee: Do we have a sense of which one performs best historically? Like, based on past campaigns?
+
+Priya Kumar: Good question — the bolder, high-contrast creative tends to perform better on social, but the minimalist version has done better in email campaigns historically. So it might actually make sense to split by channel rather than pick just one.
+
+Jane Tan: I like that approach. Let's not lock in yet — everyone take a look and send feedback by September 1st so Priya's team has time to finalize before the launch window.
+
+Priya Kumar: Sounds good, I'll send the deck right after this meeting.
+
+Jane Tan: Perfect. Alex, did you want to give an update on the client side, since you're back from leave?
+
+Alex Chen: Yes, just a quick one. I caught up on the notes — sounds like the client meeting we had scheduled slipped. Michael, did that get rebooked?
+
+Michael Lee: Not yet, I was waiting to confirm the new testing timeline with David before locking in a date.
+
+David Ong: I can have a firmer date by end of week.
+
+Michael Lee: Perfect, I'll reach out to the client once I have that and get something on the calendar for early September.
+
+Jane Tan: Great, let's make that an action item. Anything else before we wrap up?
+
+Sarah Wong: Nothing else from me.
+
+David Ong: All good here.
+
+Priya Kumar: Nothing further.
+
+Alex Chen: Nope, all caught up. Thanks for the summary, everyone.
+
+Jane Tan: Great, thanks all. Same time next week — September 3rd. I'll send the agenda by Monday. Meeting adjourned at 11:14 AM.
